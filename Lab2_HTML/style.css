@@ -1,0 +1,6 @@
+.main_h {
+    color: blueviolet;
+    -webkit-text-stroke: 2px firebrick;
+    text-shadow: 4px 2px 2px violet;
+    font-weight: 300px;
+}
